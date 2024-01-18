@@ -1,7 +1,7 @@
- The folder "hapnest" contains a few metadata files from the HAPNEST synthetic dataset. BioStudies, S-BSST936.
- See https://www.ebi.ac.uk/biostudies/studies/S-BSST936s for the license.
+The two "synthetic_v1*.*" metadata files are from the HAPNEST synthetic dataset. BioStudies, S-BSST936.
+See https://www.ebi.ac.uk/biostudies/studies/S-BSST936s for the license.
 
-For the other files
+For the other files:
 
 MIT License
 
